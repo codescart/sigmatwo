@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259129655075",
+    "project_id": "sigma-4c991",
+    "storage_bucket": "sigma-4c991.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259129655075:android:664d5b41f6aa232ed75696",
+        "android_client_info": {
+          "package_name": "com.lml.sigma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA87_-07_8rUXFLVMWjixUzsxmw4zLgxgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

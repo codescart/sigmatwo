@@ -1,0 +1,32 @@
+import 'package:flutter/material.dart';
+import 'package:Sigma/dashboard/ProductDirectory/weekly.dart';
+
+const  Recharge = "assets/images/recharge.png";
+const  Withdraw = "assets/images/withdraw.png";
+const  Teams = "assets/images/Team.png";
+const  Invitation = "assets/images/invite.png";
+const  Bonus = "assets/images/bonus.png";
+const  Project = "assets/images/project.png";
+const  Aboutus = "assets/images/about us.png";
+const  Shop = "assets/images/Kart.png";
+const  ScreenShot = "assets/images/exam.jpg";
+const  Logo = "assets/images/Sigmalogo.png";
+const  WeeklySalary = "assets/images/weeklySalary.png";
+const  MonthlySalary = "assets/images/monthlySalary.png";
+const  Coupon = "assets/images/coupon.png";
+const  Bankac = "assets/images/bank.png";
+const  Funding = "assets/images/document.png";
+const  Investment = "assets/images/investment.png";
+const  Setting = "assets/images/logout.png";
+const  Adani = "assets/images/sigmalogo.png";
+   // "adani.png";
+const  wallet = "assets/images/wallet.png";
+const  refer_earn = "assets/images/referearn.png";
+const  sucesspop = "assets/images/sucesspop.gif";
+const  changepassword = "assets/images/changepassword.png";
+const  transctionhistry = "assets/images/transctionhistory.png";
+const  support = "assets/images/support.png";
+const  whatsaap = "assets/images/whatsaap.png";
+const  BgImage = "assets/images/bgimg.jpeg";
+const  Bonusbgimg = "assets/images/Bonusbgimg.png";
+
